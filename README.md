@@ -1,5 +1,5 @@
 
-# CAPSTONE-2-NYC-TLC-PURWADHIKA-NURMARYO-ANGGITO
+# CAPSTONE-2-NYC-TLC-PURWADHIKA-NURMARYO_ANGGITO
 
 
 Capstone untuk modul 2 JCDS 2204 study case NYC TLC
@@ -51,5 +51,10 @@ rata2/mean = 2.58 dan nilai median = 1.8 maka data tersebut bisa di hilangkan
     - saya berasumsi data tersebut melakukan pickup di luar kota New York.
     - sehingga saya akan melakukan drop pada data tersebut.
 - data yang sudah bersih = 60505 data dari data awal = 68211 data jadi total pengurangan data adalah 11.3%
+
+  ## LINK CSV DAN TABLEU
+- Tableu https://public.tableau.com/app/profile/nurmaryo.anggito/viz/capstone2_17070543433370/Story1?publish=yes
+- Dataset Utama https://github.com/NurmaryoAnggito/CAPSTONE-2-NYC-TLC-PURWADHIKA/blob/main/NYC%20TLC%20Trip%20Record.csv
+- Dataset Tambahan https://github.com/NurmaryoAnggito/CAPSTONE-2-NYC-TLC-PURWADHIKA/blob/main/taxi_zones.csv
 
 
